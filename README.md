@@ -1,2 +1,2 @@
 # ChatAddon
-This is an ChatAddon for our lobbysystem.
+This is a ChatAddon for our lobbysystem.
